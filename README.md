@@ -2,7 +2,7 @@
 
 Health‑tech builder @ **SUT** • AI/ML • Patient‑centric application design
 
-> Currently focused on **Pulse‑Wave Signal Processing**, **Urinalysis (14‑parameter)**, and **Hydration/Dehydration analytics**.
+> Currently focused on **Pulse‑Wave Signal Processing**, **Urinalysis (14‑parameter)**, and **Hydration/Dehydration analytics**, **Stroke Prediction**.
 
 ---
 
