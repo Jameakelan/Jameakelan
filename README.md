@@ -27,14 +27,18 @@ Health‑tech builder @ **SUT** • AI/ML • Patient‑centric application desi
 
 ## 📄 Publications
 
-1. **The Personalized Food Recommendation System Framework for Type 2 Diabetes.**
-   *Thammasak Thianniwet, Ananyot Keawlamoon, Satidchoke Phosaard.*
-   *International Conference on Artificial Intelligence and Virtual Reality (AIVR)*. Singapore: Springer Nature Singapore, **2024**.
-   
+1. **Nutritional Analysis Using Image Recognition with Location-Aware Precision for Food Recommendation Systems**  
+   *Ananyot Keawlamoon, Thammasak Thianniwet, Satidchoke Phosaard.*  
+   **2025 IEEE International Symposium on Technology and Society (ISTAS)**, September 2025.  
+   DOI: 10.1109/ISTAS65609.2025.11269651
 
-2. **การศึกษาอัลกอริทึมสำหรับระบบแนะนำรายการอาหารและเครื่องดื่มบนชุดข้อมูลภาษาไทย**
-   *(The Study of Algorithms for Food and Beverage Recommendation System on Thai Language Dataset)*
-   *Ananyot Keawlamoon, Satidchoke Phosaard, Thammasak Thianniwet, Suphakit Niwattanakul.*
-   *วารสารวิชาการพระจอมเกล้าพระนครเหนือ (KMUTNB Academic Journal)*, **Vol. 34, No. 4, 2024**.
+2. **The Personalized Food Recommendation System Framework for Type 2 Diabetes**  
+   *Thammasak Thianniwet, Ananyot Keawlamoon, Satidchoke Phosaard.*  
+   In: **Proceedings of the International Conference on Artificial Intelligence and Virtual Reality (AIVR)**.  
+   Singapore: Springer Nature Singapore, 2024.
 
-3. **Nutritional Analysis Using Image Recognition with Location‑Aware Precision for Food Recommendation Systems** — *Pending*.
+3. **การศึกษาอัลกอริทึมสำหรับระบบแนะนำรายการอาหารและเครื่องดื่มบนชุดข้อมูลภาษาไทย**  
+   *(The Study of Algorithms for Food and Beverage Recommendation Systems on a Thai Language Dataset)*  
+   *Ananyot Keawlamoon, Satidchoke Phosaard, Thammasak Thianniwet, Suphakit Niwattanakul.*  
+   **วารสารวิชาการพระจอมเกล้าพระนครเหนือ (KMUTNB Academic Journal)**,  
+   Vol. 34, No. 4, 2024.
